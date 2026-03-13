@@ -1,0 +1,12 @@
+pip install fastapi uvicorn faiss-cpu sentence-transformers numpy pydantic
+
+
+uvicorn main:app --reload
+-
+
+
+
+Candidate has 3 years of Python experience
+
+Tell me about your Python skills
+I am a beginner
